@@ -11,6 +11,8 @@ function App() {
         <p>Esto es un repaso</p>
         
         <PrimerComponente/>
+        <hr/>
+        
         <SegundoComponente/>
       </header>
     </div>

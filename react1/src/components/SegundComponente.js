@@ -1,4 +1,5 @@
 import React from 'react'
+import { PrimerComponente } from './PrimerComponente'
 
 export const SegundoComponente = () => {
   return (
@@ -8,8 +9,8 @@ export const SegundoComponente = () => {
             <li>Dato1</li>
             <li>Dato2</li>
             <li>Dato3</li>
-
         </ul>
+        <PrimerComponente />
     </div>
   )
 }
