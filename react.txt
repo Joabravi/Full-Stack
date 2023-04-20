@@ -22,3 +22,10 @@ We suggest that you begin by typing:
   npm start
 
 Happy hacking!
+
+Creacion de componentes!!!
+Para esto creamos una carpeta de componentes en la carpeta src.
+
+crearemos los componentes dentro de esta carpeta.
+
+rafc # nos permite crear lo que debe tener un componenete.
